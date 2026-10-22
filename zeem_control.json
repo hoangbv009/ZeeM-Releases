@@ -1,0 +1,13 @@
+{
+    "disabled_tabs":  [
+                          1,
+                          2,
+                          3
+                      ],
+    "tab_message":  "Chức năng này đang tạm khóa bởi quản trị.",
+    "machines":  {
+
+                 },
+    "app_disabled":  false,
+    "app_message":  "ZeeM đang tạm ngừng sử dụng theo yêu cầu của quản trị."
+}
