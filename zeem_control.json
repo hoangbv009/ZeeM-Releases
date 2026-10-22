@@ -12,7 +12,7 @@
   ],
   "tab_message": "Chức năng này đang tạm khóa bởi quản trị.",
   "machines": {},
-  "app_disabled": true,
+  "app_disabled": false,
   "app_message": "ZeeM đang tạm ngừng sử dụng theo yêu cầu của quản trị.",
   "min_version": "0.28.19",
   "update_message": "Quản trị yêu cầu cập nhật ZeeM lên bản mới để tiếp tục sử dụng."
