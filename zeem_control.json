@@ -13,12 +13,18 @@
       "disabled_tabs": [
         1,
         2,
-        3
+        3,
+        5,
+        7
       ]
     }
   },
   "app_disabled": false,
   "app_message": "ZeeM đang tạm ngừng sử dụng theo yêu cầu của quản trị.",
-  "min_version": "0.28.19",
-  "update_message": "Quản trị yêu cầu cập nhật ZeeM lên bản mới để tiếp tục sử dụng."
+  "min_version": "0.28.20",
+  "update_message": "Quản trị yêu cầu cập nhật ZeeM lên bản mới để tiếp tục sử dụng.",
+  "require_license": true,
+  "licensed_machines": {
+    "ZM-7314-CCEE-44": "Máy quản trị – HOANGBV-1 – DELL"
+  }
 }
