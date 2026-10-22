@@ -2,7 +2,10 @@
   "disabled_tabs": [
     1,
     2,
-    3
+    3,
+    6,
+    7,
+    8
   ],
   "tab_message": "Chức năng này đang tạm khóa bởi quản trị.",
   "machines": {
