@@ -14,6 +14,8 @@
   "machines": {
     "HOANGBV-1": {
       "disabled_tabs": [
+        1,
+        3,
         5
       ]
     }
