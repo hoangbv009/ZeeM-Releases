@@ -13,7 +13,9 @@
   "tab_message": "Chức năng này đang tạm khóa bởi quản trị.",
   "machines": {
     "HOANGBV-1": {
-      "disabled_tabs": []
+      "disabled_tabs": [
+        5
+      ]
     }
   },
   "app_disabled": false,
