@@ -21,5 +21,7 @@
   "min_version": "0.28.24",
   "update_message": "Quản trị yêu cầu cập nhật ZeeM lên bản mới để tiếp tục sử dụng.",
   "require_license": true,
-  "licensed_machines": {}
+  "licensed_machines": {
+    "ZM-7314-CCEE-44": "Máy quản trị – HOANGBV-1 – DELL"
+  }
 }
