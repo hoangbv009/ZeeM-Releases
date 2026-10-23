@@ -3,12 +3,7 @@
     1,
     2,
     3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9
+    8
   ],
   "tab_message": "Chức năng này đang tạm khóa bởi quản trị.",
   "machines": {
@@ -16,9 +11,9 @@
       "disabled_tabs": []
     }
   },
-  "app_disabled": true,
+  "app_disabled": false,
   "app_message": "ZeeM đang tạm ngừng sử dụng theo yêu cầu của quản trị.",
-  "min_version": "0.28.24",
+  "min_version": "0.28.25",
   "update_message": "Quản trị yêu cầu cập nhật ZeeM lên bản mới để tiếp tục sử dụng.",
   "require_license": true,
   "licensed_machines": {
