@@ -1,10 +1,5 @@
 {
-  "disabled_tabs": [
-    1,
-    2,
-    3,
-    8
-  ],
+  "disabled_tabs": [],
   "tab_message": "Chức năng này đang tạm khóa bởi quản trị.",
   "machines": {
     "ZM-7314-CCEE-44": {
