@@ -4,7 +4,7 @@
   "machines": {},
   "app_disabled": false,
   "app_message": "ZeeM đang tạm ngừng sử dụng theo yêu cầu của quản trị.",
-  "min_version": "0.28.25",
+  "min_version": "0.28.32",
   "update_message": "Quản trị yêu cầu cập nhật ZeeM lên bản mới để tiếp tục sử dụng.",
   "require_license": true,
   "licensed_machines": {},
