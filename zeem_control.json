@@ -8,6 +8,7 @@
   "update_message": "Quản trị yêu cầu cập nhật ZeeM lên bản mới để tiếp tục sử dụng.",
   "require_license": true,
   "licensed_machines": {
+    "ZM-7314-CCEE-44": "HOANGBV-1 – DELL",
     "ZM-95B9-B566-86": "DESKTOP-DCT8G5M – hoangbv"
   },
   "heartbeat_url": "https://script.google.com/macros/s/AKfycbx7bPNxi8ehIiQ5z5DzkdYKAWj8FjlnPulnIE2SqsDkTXJH1sTTANh7pFBA9-AoBljF/exec",
