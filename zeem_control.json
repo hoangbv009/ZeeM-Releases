@@ -7,11 +7,7 @@
   "min_version": "0.28.25",
   "update_message": "Quản trị yêu cầu cập nhật ZeeM lên bản mới để tiếp tục sử dụng.",
   "require_license": true,
-  "licensed_machines": {
-    "ZM-7314-CCEE-44": "HOANGBV-1 – DELL",
-    "ZM-95B9-B566-86": "Máy quản trị – DESKTOP-DCT8G5M – hoangbv",
-    "ZM-F9FB-177D-D1": "DESKTOP-QVDMUN6 – HẢI"
-  },
+  "licensed_machines": {},
   "heartbeat_url": "https://script.google.com/macros/s/AKfycbyRXHC1qyk0FU2GoPHU5uLFh_EB1lDqXb9Hu90SflkwGV9isINJhBe1dWe0uudEf6tE/exec",
   "migrate_onefile": false
 }
